@@ -15,12 +15,12 @@ run main.ipynb
   <li>run label_final.ipynb</li>
   <li>run model_score.ipynb</li>
   <ul>
-  <li>upload max_label.csv</li>
-  <li>upload cleaned_application.csv</li>
+  <li>upload max_label.csv onto content</li>
+  <li>upload cleaned_application.csv onto content</li>
   </ul>
   <li>run model_nn.ipynb</li>
   <ul>
-  <li>upload max_label.csv</li>
-  <li>upload cleaned_application.csv</li>
+  <li>upload max_label.csv onto content</li>
+  <li>upload cleaned_application.csv onto content</li>
   </ul>
 </ol>
