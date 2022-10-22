@@ -10,7 +10,7 @@ pip install -r requirements.txt
 <h1> Running on google colab </h1>
 <ol>
   <li>run dataclean.ipynb</li>
-  set onlinedataset to True
+  set onlinedataset to True (third code block)
   <li>run label_final.ipynb</li>
   set onlinedataset to True
   <li>run model_score.ipynb</li>
