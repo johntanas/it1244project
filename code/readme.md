@@ -22,3 +22,5 @@ pip install -r requirements.txt
   <li>upload cleaned_application.csv onto content</li>
   </ul>
 </ol>
+<h2> To reproduce results </h2>
+Set n_repeats to 5 in model_score and model_nn ( time-consuming warning)
