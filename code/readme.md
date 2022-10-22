@@ -1,5 +1,5 @@
-pip install -r requirements.txt
 <h1> Running on local Machine (Preferred) </h1>
+<h2> pip install -r requirements.txt </h2>
 <h2>To reproduce results </h2>
 run main.ipynb
 <h2>To evaluate the code</h2>
