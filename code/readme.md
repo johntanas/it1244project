@@ -6,6 +6,7 @@ pip install -r requirements.txt
   <li>run label_final.ipynb</li>
   <li>run model_score.ipynb</li>
   <li>run model_nn.ipynb</li>
+  <li>run datavisual.ipynb</li>
 </ol>
 <h1> Running on google colab </h1>
 <ol>
@@ -22,6 +23,10 @@ pip install -r requirements.txt
   <ul>
   <li>upload max_label.csv onto content</li>
   <li>upload cleaned_application.csv onto content</li>
+  </ul>
+  <li>run datavisual.ipynb</li>
+  <ul>
+  <li>upload all the score csv onto content</li>
   </ul>
 </ol>
 <h2> To reproduce results </h2>
