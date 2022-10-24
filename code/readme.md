@@ -30,4 +30,7 @@ pip install -r requirements.txt
   </ul>
 </ol>
 <h2> To reproduce results </h2>
-Set n_repeats to 5 in model_score and model_nn ( time-consuming warning)
+ <ul> 
+ <li>Set n_repeats to 5 in model_score and model_nn ( time-consuming warning)</li>
+ <li> Or set basedir to ../content/nrepeats5 </li>
+ </ul>
