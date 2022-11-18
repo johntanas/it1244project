@@ -3,7 +3,7 @@ install requirements using
 pip install -r requirements.txt
 <h2>To evaluate the code</h2>
 <ol>
-  <li> hange to code directory </li>
+  <li> change to code directory </li>
   <li>run dataclean.ipynb</li>
   <li>run label_final.ipynb</li>
   <li>run model_score.ipynb</li>
