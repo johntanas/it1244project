@@ -1,0 +1,10 @@
+numpy
+pandas
+fastai
+imbalanced_learn
+imblearn
+matplotlib
+scikit_learn
+seaborn
+keras
+tensorflow
